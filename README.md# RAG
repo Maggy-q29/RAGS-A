@@ -1,0 +1,23 @@
+# RAG 
+
+## What is RAG?  
+RAG means **Retrieval-Augmented Generation**.  
+That’s just a fancy way of saying: *“AI that looks things up before answering.”*  
+
+- **Without RAG:** The AI only answers from what it remembers (its training).  
+- **With RAG:** The AI can check extra documents or a database, then give a better answer.  
+
+ **Example:**  
+It’s like asking a friend a question:  
+- If they answer from memory, they might forget details.  
+- If they check a book first, the answer will be fresher and more correct.  
+
+## Why is RAG Useful?  
+-  **Up-to-date answers** – no old information stuck in memory.  
+-  **Customizable** – you can connect it to your own files, notes, or company data.  
+-  **More accurate** – reduces mistakes where AI “makes things up.”    
+
+## In Short  
+**RAG = AI Memory + Library Access**  
+It makes AI smarter, more reliable, and more useful in real life.
+
